@@ -1,1 +1,2 @@
-
+# 02.Issue tracking application
+Issue-tracking applications give you insight about object oriented programming system. This applications are commonly used by software developers to manage and maintain their issues (i.e. tasks and/or bugs). There are different issue-tracking application with different features. In this project, I aimed to develop a simple issue-tracking application which supports the create, activate, close and cancel an issue by using date time module and re module and user defined function with the help of classes and constructor.
