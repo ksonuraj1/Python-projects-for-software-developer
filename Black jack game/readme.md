@@ -1,10 +1,10 @@
 # 01. Black jack game
 Game rule :
 
->Computer player hand (dealer)
->Human player hand (player)
->52 deck of cards
->Human bank account
+Computer player hand (dealer.
+Human player hand (player).
+52 deck of cards.
+Human bank account.
 
 The table
 1. player places bet
