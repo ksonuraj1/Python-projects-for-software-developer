@@ -16,7 +16,7 @@ The table
 6.1 If total equals 21, they win and receives bet + matched bet
 6.2. if exceeds 21, player is bust and dealer collects bet
 7. Stay moves onto the dealers turn
-8. Dealer hits cards, 
+8. Dealer hits cards. 
 8.1 if dealer exceeds 21, they bust and player wins
 8.2 if dealer equals or is under 21, dealer wins and dealer collects bet
 '''
